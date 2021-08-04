@@ -47,15 +47,14 @@ export default ({ data }) => {
         title="Used tech"
         style={{ overflow: "hidden", backgroundColor: "#fff" }}
         showLoadingAnimation={false}
-        description="The following list here corresponds to the ¨tech': Languages, Frameworks,
-        Libraries or Platforms that I used thruout all my work experiences here. "
+        description=" "
       />
     </>
   )
 }
 
 export const query = graphql`
-  query($slug: String!) {
+  query ($slug: String!) {
     markdownRemark(
       fields: { slug: { eq: $slug }, hideOnExperience: { eq: false } }
     ) {

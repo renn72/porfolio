@@ -17,6 +17,7 @@ skills:
     { title: "postgres", image: ../../images/skills/postgresql.png },
     { title: "Google Maps", image: ../../images/skills/google-maps.png },
     { title: "Python", image: ../../images/skills/python.png },
+    { title: "HTML 5", image: ../../images/skills/html5.png },
   ]
 images: []
 dateFrom: "2019-09-01"

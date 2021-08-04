@@ -11,7 +11,7 @@ const mediaQueries = {
   min52: "(min-width: 52.5em)",
   max36: "(max-width: 36em)",
 }
-const textLimit = 15
+const textLimit = 25
 
 const Experience = ({
   jobs,

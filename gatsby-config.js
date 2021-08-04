@@ -21,7 +21,7 @@ module.exports = {
       { name: `skills`, title: `Skills`, color: `#d52d43`, link: `` },
       { name: `aboutMe`, title: `About Me`, color: `#fff`, link: `` },
     ],
-    email: `a@a.a`,
+    email: `portfolio@david-warner.dev`,
     social: {
       // Usernames
       twitter: ``,

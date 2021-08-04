@@ -34,6 +34,7 @@ const styles = {
       max-width: calc(100vw - 5em);
       margin: 1em 0 0 5px;
       font-weight: 500;
+      font-size: 1.2rem;
     }
   `,
   grid: css`
