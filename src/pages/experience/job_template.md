@@ -1,6 +1,6 @@
 ---
 title: ""
-company: "Company Name"
+company: "temp"
 logo: ../../images/companies/ornforlag.jpg
 jobTitle: "My job position"
 skills: [{ title: "HTML 5", image: ../../images/skills/html5.png }]
@@ -66,8 +66,8 @@ images:
         ],
     },
   ]
-dateFrom: "2015-12-01"
-dateTo: "2019-12-01"
+dateFrom: "2019-12-01"
+dateTo: "2020-12-01"
 ---
 
 - Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum

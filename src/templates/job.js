@@ -47,7 +47,7 @@ export default ({ data }) => {
         title="Used tech"
         style={{ overflow: "hidden", backgroundColor: "#fff" }}
         showLoadingAnimation={false}
-        description=" "
+        description=""
       />
     </>
   )

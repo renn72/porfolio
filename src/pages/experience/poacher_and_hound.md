@@ -1,5 +1,5 @@
 ---
-title: "Title"
+title: "E-commerce"
 company: "Poacher and Hound"
 logo: ../../images/companies/poacherhound.jpg
 jobTitle: "E-Commerce site"
@@ -13,6 +13,9 @@ skills:
     { title: "git", image: ../../images/skills/git.png },
     { title: "REST", image: ../../images/skills/restful.png },
     { title: "HTML 5", image: ../../images/skills/html5.png },
+    { title: "nodeJS", image: ../../images/skills/nodejs.png },
+    { title: "MongoDB", image: ../../images/skills/mongodb.png },
+    { title: "PayPal", image: ../../images/skills/paypal.png },
   ]
 
 images:
@@ -41,7 +44,7 @@ images:
         ],
     },
     {
-      title: "E-Commerce",
+      title: "Administration",
       description: "Fully customizable front-end",
       layout: "2",
       files:
@@ -54,9 +57,11 @@ images:
     },
   ]
 dateFrom: "2021-04-01"
-# dateTo: "2021-08-01"
+dateTo: "2021-08-01"
 ---
 
 - Fullstack MERN E-commerce site
 - Built with current best practices
 - The site can be fully managed via the inbuilt Admin tools
+- Their current site is at https://poacherandhound.com.au/
+- and the new site is at https://samssuperstore.herokuapp.com/ just waiting on a few assets to be finished

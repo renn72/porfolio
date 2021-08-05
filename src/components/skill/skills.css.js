@@ -89,18 +89,25 @@ const styles = {
     width: 100%;
   `,
   gridLayerRight: css`
-    transform: perspective(3000px) translateY(-70px) rotateX(55deg)
+    width: calc(80%);
+    max-width: 1600px;
+    min-width: 800px;
+    padding-left: 20rem;
+    padding-bottom: 5rem;
+
+    transform: perspective(3000px) translateY(-10px) rotateX(55deg)
       rotateZ(-45deg);
     transform-origin: center center;
     ${media50em} {
-      width: calc(100% + 750px);
-      transform: perspective(3000px) translateY(-17rem) rotateX(55deg)
-        rotateZ(-45deg);
+      /* padding-left: 2rem; */
+      width: calc(50%);
+      transform: perspective(4000px) translateY(-10rem) rotateX(55deg)
+        translateX(-20rem) rotateZ(-15deg);
       transform-origin: center bottom;
     }
   `,
   gridLayerLeft: css`
-    transform: translateX(0) translateY(0) rotateX(45deg) rotateZ(45deg);
+    transform: translateX(5rem) translateY(-5rem) rotateX(45deg) rotateZ(45deg);
     position: fixed;
     z-index: 2;
     transform-origin: top left;
