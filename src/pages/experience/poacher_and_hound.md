@@ -1,5 +1,5 @@
 ---
-title: "E-commerce"
+title: ""
 company: "Poacher and Hound"
 logo: ../../images/companies/poacherhound.jpg
 jobTitle: "E-Commerce site"
@@ -56,7 +56,7 @@ images:
         ],
     },
   ]
-dateFrom: "2021-04-01"
+dateFrom: "2020-12-01"
 dateTo: "2021-08-01"
 ---
 

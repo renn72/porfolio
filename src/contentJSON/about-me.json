@@ -1,10 +1,18 @@
 [
   {
-    "subtitle": "About Me!",
-    "content": "Avast, me proud beauty! Wanna know why my Roger is so Jolly? How’d you like to scrape the barnacles off of me rudder? They don’t call me Long John because my head is so big. Let’s get together and haul some keel. Me I’m Dishonest. And A Dishonest Man You Can Always Trust To Be Dishonest. Honestly Its The Honest Ones You Want To Watch Out For Because You Never Know When They Are Going To Do Something Completely Stupid! Drink up me hearties yoho …a pirates life for me Now and then we had a hope that if we lived and were good, God would permit us to be pirates. To err is human but to arr is pirate!! Suddenly you’re like a pirate, you’re 65 years old and you’ve got an ear- ring. Life’s pretty good, and why wouldn’t it be? I’m a pirate, after all. Merchant and pirate were for a long period one and the same person."
+    "subtitle": "About Me",
+    "content": "<p>Late last year I decided to move back to Australia after spending a few years over seas.  Part of that move was to make a career change. I have always been a hobbyist programmer, but I wanted to make the next step.</p>"
   },
   {
-    "subtitle": "Experience!",
-    "content": "Even today mercantile morality is really nothing but a refinement of piratical morality. Fetch me another Cabin Boy…This one be split It is when pirates count their booty that they become mere thieves. How much does the pirate pay for an ear piercing? … A buccaneer! (buck- in- ear…) Right from the Voyage og Noah, surviving was by sailing. Avast ye! and sail against the tides. Well actualy piracy is a democracy with captains voted for by the crew. Arrrrrrrr Piracy – Hostile take over. Land was created to provide a place for boats to visit. "
+    "subtitle": "Experience",
+    "content": "<p>So I started doing some freelance web design work and completed a Software Engineering course at General Assembly</p><p>Since then i have completed multiple projects and I am now looking to take on my next professional challenge"
+  },
+  {
+    "subtitle": "Before",
+    "content": "Previously I was working in aviation managing engine repairs for 737s, and spent over decade working with some of the world's top chef's as a Sommelier (Shannon Bennet, Gordon Ramsay, Guillaume Brahimi, Phillipe Mouchel)"
+  },
+  {
+    "subtitle": "Recently on my bedside table",
+    "content": "<ul><li>Doing Agile right, Darrell Rigby [current]</li><li>The Shadow Rising, Robert Jordan [current]</li><li>Deep Learning for Coders with fastai & PyTorch, Jeremy Howard & Sylvain Gugger [current]</li><li>Deep Work, Cal Newport</li><li>The Phoenix Project, Gene Kim, Kevin Behr, George Spafford</li><li>The Pragmatic Programmer, David Thomas & Andrew Hunt</li><li>Sapiens, Yuval Noah Haarari</li><li>Breathe, James Nestor</li><li>Infinite Powers, Steven Strogatz</li><li>Our Mathematical Universe, Max Tegmark</li><li>Head First C#, Andrew Stellman</li><li>Mastering Bitcoin, Andreas Antonopoulos </li><li>The Carnivore Code, Paul Saladino</li><li>Python Tricks the Book, Dan Bader</li></ul>"
   }
 ]

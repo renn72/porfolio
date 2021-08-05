@@ -28,6 +28,7 @@ images:
           { image: ../../images/companies/brain/b0-3.png },
           { image: ../../images/companies/brain/b0-1.png },
         ],
+      caption: "Train my Brain",
     },
   ]
 dateFrom: "2021-04-01"
