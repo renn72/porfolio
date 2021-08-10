@@ -36,12 +36,12 @@ module.exports = {
       h1Text: `Hi!, I'm David`,
       h2Text: `I'm a fullstack developer looking for my next challenge`,
       typewriter: [
-        `I'm a fast learner and always looking to learning new technologies 🤓`,
+        `I'm a fast learner and always looking to discover new technologies 🤓`,
         `I think one of my values is the <strong>ability to find solutions <strong>`,
         `I like to share what I know`,
         `In my non-coding hours, I'm a runner and a family man.`,
         `Jack Russel's! 🐕`,
-        `I also do design and UX work using mostly <span style:'color: #27ae60;'>figma.com</span> `,
+        `I'm also a design guy who works with <span style:'color: #27ae60;'>figma.com</span> `,
       ],
     },
     shapeColor: {
