@@ -2,7 +2,7 @@ import { css } from "@emotion/core"
 
 const styles = {
   aboutSection: css`
-    color: #000;
+    color: #c5d3e1;
     font-size: 1.2rem;
   `,
   aboutContainer: css`
@@ -29,13 +29,13 @@ const styles = {
       position: absolute;
       bottom: 0;
       left: 0;
-      background: #000;
+      background: #c5d3e1;
       height: 7px;
       width: 7rem;
     }
   `,
   aboutShadow: css`{
-    color: rgba(0, 0, 0, 0.04);
+    color: rgba(255, 255, 255, 0.09);
     position: absolute;
     top: 20%;
     left: 20%;

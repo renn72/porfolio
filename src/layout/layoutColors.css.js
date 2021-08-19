@@ -9,7 +9,10 @@ const styles = css`
     color: #000;
   }
   .aboutme.layout-wrapper .layout-inner {
-    background: #777778;
+    background: #161616;
+    background: url(${lineSvg}) center center fixed,
+      linear-gradient(45deg, #1b1b1b, #0e0f11);
+    background-size: cover;
   }
   .aboutme .data-section {
     color: #000;
@@ -18,7 +21,7 @@ const styles = css`
   .aboutme .hamburgercolr::after,
   .e404 .hamburgercolr::before,
   .e404 .hamburgercolr::after {
-    background-color: #000;
+    background-color: #fff;
   }
   .home.layout-wrapper .layout-inner {
     background: #0e0f11;
@@ -31,15 +34,15 @@ const styles = css`
   }
   .skill.layout-wrapper .layout-inner {
     color: #fff;
-    background: #9d316e;
+    background: #0e0f11;
     background: url(${lineSvg}) center center fixed,
-      linear-gradient(45deg, #9d316e, #de2d3e);
+      linear-gradient(45deg, #1b1b1b, #0e0f11);
     background-size: cover;
   }
   .experience.layout-wrapper .layout-inner {
-    background: #3a3d98;
+    background: #161616;
     background: url(${lineSvg}) center center fixed,
-      linear-gradient(45deg, #6f22b9, #3a3d98);
+      linear-gradient(45deg, #1b1b1b, #0e0f11);
     background-size: cover;
   }
   .home .hamburgercolr::before,

@@ -17,9 +17,9 @@ module.exports = {
       // title = Link text
       // color = Animation background color on click
       { name: `home`, title: `Home`, color: `#000`, link: `` },
-      { name: `experience`, title: `Experience`, color: `#3a3d98`, link: `` },
-      { name: `skills`, title: `Skills`, color: `#d52d43`, link: `` },
-      { name: `aboutMe`, title: `About Me`, color: `#fff`, link: `` },
+      { name: `experience`, title: `Experience`, color: `#111`, link: `` },
+      { name: `skills`, title: `Skills`, color: `#111`, link: `` },
+      { name: `aboutMe`, title: `About Me`, color: `#111`, link: `` },
     ],
     email: `portfolio@david-warner.dev`,
     social: {
