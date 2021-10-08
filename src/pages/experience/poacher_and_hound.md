@@ -56,8 +56,8 @@ images:
         ],
     },
   ]
-dateFrom: "2020-12-01"
-dateTo: "2021-08-01"
+dateFrom: "2021-07-01"
+dateTo: "2021-10-01"
 ---
 
 - Fullstack MERN E-commerce site

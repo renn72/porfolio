@@ -30,8 +30,6 @@ dateFrom: "2021-04-01"
 dateTo: "2021-07-01"
 ---
 
-- A group project
-- Built as a REST application
-- Built as a team from the design to management to a finished app.
-- checkout the src code https://github.com/renn72/fruit_trees
-- see the app at https://multicultural-leaf-99080.herokuapp.com/index.html
+- A brochures site to advertise a local business
+- checkout the src code https://github.com/renn72/launceston-trailers
+- see the app at https://launcestontrailers.com/
